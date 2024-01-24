@@ -3,7 +3,13 @@
 ## description
 
 Text editor application using moder PWA concepts.
+
+## Deployed Link
 https://mighty-beyond-80918-73cfb4c39c3b.herokuapp.com/
+
+## Screenshot
+<img width="1433" alt="image" src="https://github.com/kahlilbausley/Text-Editor/assets/42008951/9055fcaa-facf-4950-9ca0-c991705decf1">
+
 ## Installation
 npm i
 
